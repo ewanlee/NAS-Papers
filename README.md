@@ -4,4 +4,5 @@ This is a collection of research and review papers of network architecture searc
 
 The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact Ewan Lee (Email: ewanlee [AT] yeah.net).
 
-
+## Research Papers
+- Zoph B, Vasudevan V, Shlens J, et al. [Learning transferable architectures for scalable image recognition](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zoph_Learning_Transferable_Architectures_CVPR_2018_paper.pdf)[J]. arXiv preprint arXiv:1707.07012, 2017, 2(6).
