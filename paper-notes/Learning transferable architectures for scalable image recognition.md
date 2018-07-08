@@ -25,8 +25,14 @@
 
 ![control_model](http://o7ie0tcjk.bkt.clouddn.com/nas-paper-notes/control_model.png)
 
+附上最优网络结构：
+
+![best_arcg](http://o7ie0tcjk.bkt.clouddn.com/nas-paper-notes/best_arch.png)
+
 另外比较有意思的一点是论文中的baseline选择为random search算法，最后的效果和PPO只差了一个点左右，作者解释说是因为
 搜索空间设计的比较精妙，所以随机策略也能取得很好的效果。
+
+![random_search](http://o7ie0tcjk.bkt.clouddn.com/nas-paper-notes/random_search.png)
 
 在论文附录部分提到了一个比较重要的细节，就是如果操作选择为seperable convelution的时候，需要将这个操作对输入进行两次，
 实验结果表明这样设计会使得效果提升很多。除了这一点之外，附录部分还提到了很多实现细节，值得仔细研究。
