@@ -6,4 +6,5 @@ The sharing principle of these references here is for research. If any authors d
 
 ## Research Papers
 - Zoph B, Vasudevan V, Shlens J, et al. [Learning transferable architectures for scalable image recognition](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zoph_Learning_Transferable_Architectures_CVPR_2018_paper.pdf)[J]. arXiv preprint arXiv:1707.07012, 2017, 2(6). [`paper note`](./paper-notes/Learning%20transferable%20architectures%20for%20scalable%20image%20recognition.md)
+- Real E, Moore S, Selle A, et al. [Large-scale evolution of image classifiers](https://arxiv.org/pdf/1703.01041.pdf)[J]. arXiv preprint arXiv:1703.01041, 2017.
 - Zoph B, Le Q V. [Neural architecture search with reinforcement learning](https://arxiv.org/pdf/1611.01578.pdf)[J]. arXiv preprint arXiv:1611.01578, 2016. [`paper note`](./paper-notes/Neural%20architecture%20search%20with%20reinforcement%20learning.md)
