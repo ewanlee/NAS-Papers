@@ -5,7 +5,7 @@ This is a collection of research and review papers of network architecture searc
 The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact Ewan Lee (Email: ewanlee [AT] yeah.net).
 
 ## Research Papers
-- Pham, Hieu, et al. "Efficient Neural Architecture Search via Parameter Sharing." arXiv preprint arXiv:1802.03268 (2018).
+- Pham, Hieu, et al. "[Efficient Neural Architecture Search via Parameter Sharing](https://arxiv.org/pdf/1802.03268.pdf)." arXiv preprint arXiv:1802.03268 (2018).
 - Zoph B, Vasudevan V, Shlens J, et al. [Learning transferable architectures for scalable image recognition](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zoph_Learning_Transferable_Architectures_CVPR_2018_paper.pdf)[J]. arXiv preprint arXiv:1707.07012, 2017, 2(6). [`paper note`](./paper-notes/Learning%20transferable%20architectures%20for%20scalable%20image%20recognition.md)
 - Real E, Moore S, Selle A, et al. [Large-scale evolution of image classifiers](https://arxiv.org/pdf/1703.01041.pdf)[J]. arXiv preprint arXiv:1703.01041, 2017. [`paper note`](./paper-notes/Large-scale%20evolution%20of%20image%20classifiers.md)
 - Baker B, Gupta O, Naik N, et al. [Designing neural network architectures using reinforcement learning](https://arxiv.org/pdf/1611.02167.pdf)[J]. arXiv preprint arXiv:1611.02167, 2016.
