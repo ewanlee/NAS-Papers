@@ -2,7 +2,7 @@
 
 ![](http://o7ie0tcjk.bkt.clouddn.com/nz5p2uutf89hn5sk.jpg)
 
-然后搜索空间比较简单（因为是Mobile环境）：
+然后搜索空间比较简单（因为是Mobile环境，网络结构减少碎片化可以大幅度提升效率）：
 
 ![](http://o7ie0tcjk.bkt.clouddn.com/6yoqj3hpw3k2ubar.jpg)
 
