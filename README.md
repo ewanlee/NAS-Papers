@@ -5,6 +5,7 @@ This is a collection of research and review papers of network architecture searc
 The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact Ewan Lee (Email: ewanlee [AT] yeah.net).
 
 ## Research Papers
+- Bender, Gabriel, et al. "[Understanding and simplifying one-shot architecture search](http://proceedings.mlr.press/v80/bender18a.html)." International Conference on Machine Learning. 2018.
 - Luo, Renqian, et al. "[Neural Architecture Optimization](https://arxiv.org/pdf/1808.07233.pdf)." arXiv preprint arXiv:1808.07233 (2018).
 - Tan, Mingxing, et al. "[MnasNet: Platform-Aware Neural Architecture Search for Mobile](https://arxiv.org/pdf/1807.11626v1.pdf)." arXiv preprint arXiv:1807.11626 (2018). [`paper note`](./paper-notes/MnasNet:%20Platform-Aware%20Neural%20Architecture%20Search%20for%20Mobile.md) [`code (PyTorch)`](https://github.com/AnjieZheng/MnasNet-PyTorch) [`code (Keras/Tensorflow)`](https://github.com/Shathe/MNasNet-Keras-Tensorflow)
 - Liu, Hanxiao, Karen Simonyan, and Yiming Yang. "[DARTS: Differentiable Architecture Search](https://arxiv.org/pdf/1806.09055.pdf)." arXiv preprint arXiv:1806.09055 (2018). [`paper note`](./paper-notes/DARTS:%20Differentiable%20Architecture%20Search.md)  [`code`](https://github.com/quark0/darts)
